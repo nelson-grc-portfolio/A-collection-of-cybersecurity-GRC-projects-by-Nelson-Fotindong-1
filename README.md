@@ -44,3 +44,27 @@ This Excel-based checklist aligns with **Annex A.9 – Access Control** from the
 
 
 ---
+### 🔍 Vendor Security Risk Assessment Template
+
+This Excel-based assessment tool is designed to help organizations evaluate the cybersecurity posture and compliance readiness of third-party vendors. It aligns with best practices from ISO/IEC 27001 (Annex A.15), NIST 800-53 (SR family), and SOC 2 Trust Principles.
+
+#### ✅ Features:
+- Structured across 7 key areas:
+  1. **Vendor Information**
+  2. **General Security Practices**
+  3. **Access Control & Privileged Management**
+  4. **Data Protection & Privacy Compliance**
+  5. **Incident Response Capabilities**
+  6. **Security Certifications (e.g., SOC 2, ISO 27001)**
+  7. **Internal Risk Rating & Approval Section**
+
+- Easy-to-use “Yes/No” fields and comment boxes
+- Supports audit readiness, onboarding decisions, and TPRM governance
+
+📁 **Included File:**
+- `Vendor_Risk_Assessment_Template_NelsonFotindong.xlsx`
+
+---
+
+> 🛡️ Use this template to standardize vendor onboarding, reduce third-party risk, and ensure security due diligence.
+
