@@ -62,7 +62,9 @@ This Excel-based assessment tool is designed to help organizations evaluate the 
 - Supports audit readiness, onboarding decisions, and TPRM governance
 
 📁 **Included File:**
-- `Vendor_Risk_Assessment_Template_NelsonFotindong.xlsx`
+📁 **Included File:**
+- [Vendor_Risk_Assessment_Template_NelsonFotindong.xlsx](./Vendor_Risk_Assessment/Vendor_Risk_Assessment_Template_NelsonFotindong.xlsx)
+
 
 ---
 
