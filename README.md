@@ -65,7 +65,6 @@ This Excel-based assessment tool is designed to help organizations evaluate the 
 📁 **Included File:**
 - [Vendor_Risk_Assessment_Template_NelsonFotindong.xlsx](./Vendor_Risk_Assessment/Vendor_Risk_Assessment_Template_NelsonFotindong.xlsx)
 
-
 ---
 
 > 🛡️ Use this template to standardize vendor onboarding, reduce third-party risk, and ensure security due diligence.
