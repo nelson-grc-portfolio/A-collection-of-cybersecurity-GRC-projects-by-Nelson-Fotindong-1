@@ -39,8 +39,8 @@ This Excel-based checklist aligns with **Annex A.9 – Access Control** from the
 - A.9.4: System and Application Access Control
 
 📁 **Included File:**
-- `ISO27001_Access_Control_Policy_Checklist_NelsonFotindong.xlsx`
+-📁 **Included File:**
+- [ISO27001_Access_Control_Policy_Checklist_NelsonFotindong.xlsx](./Access_Control_Policy/ISO27001_Access_Control_Policy_Checklist_NelsonFotindong.xlsx)
+
 
 ---
-
-> 🛠️ Use this as a working compliance document, onboarding reference, or policy design tool.
