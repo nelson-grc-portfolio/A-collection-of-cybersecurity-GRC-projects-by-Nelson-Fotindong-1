@@ -4,7 +4,7 @@ This project demonstrates my work as a **Governance, Risk, and Compliance (GRC) 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 **Client:** RedRock Financial Services (Fictional)  
 **Industry:** Banking, lending, and wealth management  
@@ -15,7 +15,7 @@ The company is subject to oversight by regulators including the **OCC**, **FDIC*
 
 ---
 
-## 🛠 Frameworks Applied
+##  Frameworks Applied
 
 For this assessment, I applied multiple governance and security standards to evaluate maturity and compliance:
 
@@ -27,7 +27,7 @@ For this assessment, I applied multiple governance and security standards to eva
 
 ---
 
-## 🔎 Key Gaps Identified
+##  Key Gaps Identified
 
 The gap analysis revealed weaknesses across governance, cybersecurity, compliance, and operations.
 
@@ -46,7 +46,7 @@ The gap analysis revealed weaknesses across governance, cybersecurity, complianc
 
 ---
 
-## 🚨 Observations
+##  Observations
 
 - **Governance Weaknesses**: Board not fully engaged in cybersecurity oversight  
 - **Cybersecurity Gaps**: MFA, encryption, and SIEM need urgent remediation  
@@ -55,7 +55,7 @@ The gap analysis revealed weaknesses across governance, cybersecurity, complianc
 
 ---
 
-## ✅ Recommendations
+##  Recommendations
 
 ### Immediate (0–3 Months)
 - Enforce **MFA** across all systems (VPN, admin accounts).  
@@ -77,17 +77,14 @@ The gap analysis revealed weaknesses across governance, cybersecurity, complianc
 
 ---
 
-## 📊 Visualization
+##  Visualization
 
 As part of the analysis, I created a **heatmap-style visualization** highlighting priorities.  
-Red = High Risk, Orange = Medium Risk, Green = Low Risk.  
-
-![Gap Analysis Heatmap](heatmap-sample.png)  
-*(Sample visualization created as part of this project)*
+Red = High Risk, Orange = Medium Risk, Green = Low Risk. 
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project highlights my ability to conduct a **deep GRC gap analysis** by:  
 
@@ -103,13 +100,9 @@ This is a strong example of my **consulting methodology** in action and how I he
 
 
 
-
-
-# GRC Portfolio – Nelson Fotindong
-
 This repository showcases key documents from my cybersecurity and governance, risk, and compliance (GRC) experience. These examples reflect my ability to design risk management tools, policies, and controls in alignment with industry standards like NIST, ISO 27001, and GDPR.
 
-## 📂 Projects
+##  Projects
 
 ### 1. Risk Register + Mitigation Plan
 A sample risk register illustrating various cybersecurity, compliance, and operational risks — includes risk scoring, root causes, and treatment recommendations based on real-world frameworks.
@@ -127,11 +120,11 @@ A cybersecurity dashboard showcasing monthly metrics and trends for patching com
 📄 [Download PDF](./Cybersecurity_KPI_Dashboard_NelsonFotindong.pdf)
 
 
-### 3. 📋 ISO/IEC 27001 Access Control Policy Checklist
+### 3.  ISO/IEC 27001 Access Control Policy Checklist
 
 This Excel-based checklist aligns with **Annex A.9 – Access Control** from the ISO/IEC 27001:2022 standard. It is designed to help organizations assess, implement, and track access control policies and practices.
 
-#### ✅ Key Features:
+####  Key Features:
 - 10 essential controls mapped directly to Annex A.9
 - Columns for:
   - **Implemented (Yes/No)**
@@ -139,23 +132,23 @@ This Excel-based checklist aligns with **Annex A.9 – Access Control** from the
   - **Comments/Notes**
 - Supports internal audits, risk assessments, and certification readiness
 
-#### 🔐 Covered Control Areas:
+####  Covered Control Areas:
 - A.9.1: Business Requirements for Access Control  
 - A.9.2: User Access Management  
 - A.9.3: User Responsibilities  
 - A.9.4: System and Application Access Control
 
-📁 **Included File:**
--📁 **Included File:**
+ **Included File:**
+- **Included File:**
 - [ISO27001_Access_Control_Policy_Checklist_NelsonFotindong.xlsx](./Access_Control_Policy/ISO27001_Access_Control_Policy_Checklist_NelsonFotindong.xlsx)
 
 
 ---
-### 🔍 Vendor Security Risk Assessment Template
+###  Vendor Security Risk Assessment Template
 
 This Excel-based assessment tool is designed to help organizations evaluate the cybersecurity posture and compliance readiness of third-party vendors. It aligns with best practices from ISO/IEC 27001 (Annex A.15), NIST 800-53 (SR family), and SOC 2 Trust Principles.
 
-#### ✅ Features:
+####  Features:
 - Structured across 7 key areas:
   1. **Vendor Information**
   2. **General Security Practices**
@@ -168,11 +161,11 @@ This Excel-based assessment tool is designed to help organizations evaluate the 
 - Easy-to-use “Yes/No” fields and comment boxes
 - Supports audit readiness, onboarding decisions, and TPRM governance
 
-📁 **Included File:**
-📁 **Included File:**
+ **Included File:**
+ **Included File:**
 - [Vendor_Risk_Assessment_Template_NelsonFotindong.xlsx](./Vendor_Risk_Assessment/Vendor_Risk_Assessment_Template_NelsonFotindong.xlsx)
 
 ---
 
-> 🛡️ Use this template to standardize vendor onboarding, reduce third-party risk, and ensure security due diligence.
+>  Use this template to standardize vendor onboarding, reduce third-party risk, and ensure security due diligence.
 
